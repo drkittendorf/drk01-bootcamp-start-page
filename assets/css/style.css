@@ -1,0 +1,86 @@
+:root {
+  padding: 0;
+  font: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+
+h2 {
+ font-size: 2rem;
+
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+  border: 0px;
+  font-size: 100%;
+  font: 12px;
+}
+
+header {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  font-size: 100%;
+  font: 12px;
+  text-align: center;
+}
+
+#main-content {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  font-size: 100%;
+  font: 12px;
+}
+
+aside {
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  font-size: 100%;
+  font: 12px;
+  align-self: left;
+}
+
+section {
+  margin: 10px;
+  padding: 10px;
+  border: 3px;
+  font-size: 100%;
+  font: 12px;
+  align-self: right;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+  font-size: 100%;
+  font: 12px;
+  align-self: right;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+  font-size: 100%;
+  font: 12px;
+  text-align: center;
+}
